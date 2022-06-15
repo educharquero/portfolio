@@ -6,6 +6,6 @@ Portfolio inicial
 ## Ìcones
 :package: Novas funcionalidades
 :up: Atualizações
-:beatle: Correção de bugs
+:beetle: Correção de bugs
 :checkered_flag: Release
 
